@@ -5,3 +5,15 @@ When we initialize a repository, we achieve the ability to make commits hence en
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 Staging area can be visualised as a platform on which the files desired to be committed would be placed to ship finally to commit.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Add only the files that have been modified to the staging area. The rest of the files need not be affected. While committing write the appropriate message and henc we would have a commit per the logical change.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches help when we need to make experimental features but not necessarily make them a part of the program itself. In that case we can dedicate a different branch and make updates until we are satisfied. The original program would still be on the master branch. We can always merge the 2 branches when it becomes necessary.
+
+How do the diagrams help you visualize the branch structure?
+
+It helps us understand exactly when each branch came into existence. Hence we can know what exact features will be present or absent in one branch or the other.
