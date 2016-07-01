@@ -1,1 +1,5 @@
 I was born on the internet!!! That is awesome.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+There may be multiple contributors to a single project. It means that whenever someone changes a file online, it would be changed on my computer too. 
+My own progress will be disrupted in this way. Hence its better if I pull the reps whenever I feel the need to.
