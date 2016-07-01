@@ -3,3 +3,9 @@ I was born on the internet!!! That is awesome.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 There may be multiple contributors to a single project. It means that whenever someone changes a file online, it would be changed on my computer too. 
 My own progress will be disrupted in this way. Hence its better if I pull the reps whenever I feel the need to.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Fork - copy from github to github. Makes a copy of someone else's rep for personal use in my account. If not this, then the other way would be to clone in my machine, make changes and push. Too-long. Fork rocks!!!
+clone - copy rep from github to pc or pc to pc.Use it to make a copy for personal use
+branches - make experimental changes in the existing version without affecting the original one. Just make the changes in a different branch and keep the original in master. 
+
