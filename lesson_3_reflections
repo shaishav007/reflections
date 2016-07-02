@@ -15,3 +15,5 @@ You stay updated with where the code is going.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Save and copy my version of files on the cloud (maybe google drive) with a readme file which will contain my progress in simple english. Since the exact code changes will not be visible, I guess it would be pretty inefficient. GitHub is a real solution for this need of developers.
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+While working on experimental or new features or while making our own contribution in a collaborative project. Once our code is ready, we must make a pull request for fellow admins to check our features and add them if they are good enough. This is the conventional workflow and now I can see how this makes it a lot easier.
