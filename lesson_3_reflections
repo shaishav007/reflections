@@ -7,5 +7,11 @@ My own progress will be disrupted in this way. Hence its better if I pull the re
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 Fork - copy from github to github. Makes a copy of someone else's rep for personal use in my account. If not this, then the other way would be to clone in my machine, make changes and push. Too-long. Fork rocks!!!
 clone - copy rep from github to pc or pc to pc.Use it to make a copy for personal use
-branches - make experimental changes in the existing version without affecting the original one. Just make the changes in a different branch and keep the original in master. 
+branches - make experimental changes in the existing version without affecting the original one. Just make the changes in a different branch and keep the original in master.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+You stay updated with where the code is going.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Save and copy my version of files on the cloud (maybe google drive) with a readme file which will contain my progress in simple english. Since the exact code changes will not be visible, I guess it would be pretty inefficient. GitHub is a real solution for this need of developers.
 
